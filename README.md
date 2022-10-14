@@ -1,1 +1,0 @@
-# xxx-static-database
